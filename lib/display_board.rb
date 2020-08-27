@@ -2,3 +2,7 @@
 r1="   |   |   "
 r2="-----------"
 puts r1
+puts r2
+puts r1
+puts r2
+puts r1
